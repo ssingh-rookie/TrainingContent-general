@@ -26,8 +26,6 @@
 
 ---
 
-### 
-
 ---
 
 ### **Example 1: Investment Structuring**
@@ -145,7 +143,7 @@ It integrates **portfolio theory**, **global tax optimization**, **philanthropy*
 
 ## **Persona: Rajiv Malhotra**
 
-### 🏷️ Segment: **Business Owner – High-Net-Worth Individual (HNW)**
+### Segment: **Business Owner – High-Net-Worth Individual (HNW)**
 
 > "My business is my engine, but my family is the destination."
 > 
@@ -199,7 +197,7 @@ It integrates **portfolio theory**, **global tax optimization**, **philanthropy*
 
 ## **Persona: James "Jimmy" Callahan**
 
-### 🏷️ Segment: **Australian Business Owner – Real Estate Tycoon (HNW/UHNW)**
+### Segment: **Australian Business Owner – Real Estate Tycoon (HNW/UHNW)**
 
 > “I’ve built everything from dirt. Now it’s time to make it last beyond me.”
 > 
@@ -273,7 +271,7 @@ It integrates **portfolio theory**, **global tax optimization**, **philanthropy*
 
 ## **Persona: Dr. Angela Kaur**
 
-### 🏷️ Segment: **Healthcare Professional – High-Income, Time-Poor (HNW Emerging)**
+### Segment: **Healthcare Professional – High-Income, Time-Poor (HNW Emerging)**
 
 > "I help others stay healthy. I need someone to keep my finances fit."
 > 
@@ -351,14 +349,14 @@ It integrates **portfolio theory**, **global tax optimization**, **philanthropy*
 
 ---
 
-# 🩺 **Private Banker Playbook: Healthcare Professionals Segment**
+# **Private Banker Playbook: Healthcare Professionals Segment**
 
 > “Turning income-rich, time-poor professionals into financially secure, long-term clients.”
 > 
 
 ---
 
-## 🧠 1. **Segment Overview**
+## 1. **Segment Overview**
 
 | Attribute | Value |
 | --- | --- |
@@ -492,3 +490,216 @@ Would you like this in:
 - Or adapted for **UHNW healthcare professionals** (e.g. surgeons, medical group founders)?
 
 I can also generate tailored **RM scripts**, **case studies**, or **persona-based drip campaign templates** if you're building this into a larger CX journey.
+
+---
+
+## **Persona: Jonathan Lee**
+
+### Segment: **C-Suite Executive & Board Member – Time-Constrained, Equity-Rich, Strategically Oriented (UHNW)**
+
+> “I spend my life building companies. I need someone who can build a financial architecture around mine.”
+> 
+
+---
+
+### **Demographics**
+
+- **Age**: 54
+- **Role**: Group CFO of an ASX 50-listed company; sits on 2 external advisory boards
+- **Location**: Sydney, Australia
+- **Marital Status**: Married, 2 adult children (21 & 18)
+- **Education**: MBA (INSEAD), Chartered Accountant
+- **Net Worth**: ~$25M+ (significant portion tied to equity incentives)
+
+---
+
+### **Financial Profile**
+
+| Category | Details |
+| --- | --- |
+| **Primary Wealth Source** | Executive compensation: salary, bonuses, deferred equity, performance rights |
+| **Assets** | $10M in listed company shares (vesting over time), $5M in diversified portfolio, $3M property, $2M super, $5M private investments |
+| **Income Volatility** | High — dependent on share price performance and long-term incentive plans (LTIPs) |
+| **Liquidity** | Needs pre- and post-vesting planning due to blackout periods and insider trading constraints |
+| **Tax Exposure** | Complex — employee share schemes, capital gains, international tax if roles span regions |
+
+---
+
+### **Goals**
+
+| Time Horizon | Goals |
+| --- | --- |
+| **Short-term** | Optimize post-vesting liquidity and tax; deploy capital beyond equity holdings |
+| **Mid-term** | Diversify exposure away from employer stock; protect family wealth from market risks |
+| **Long-term** | Transition to advisory-only roles; philanthropy and next-gen transfer strategy |
+
+---
+
+### **Pain Points & Challenges**
+
+- Overexposure to employer equity
+- Subject to **trading windows, blackout periods**, and **insider regulations**
+- High visibility = reputational risk and media scrutiny
+- Complex tax reporting across jurisdictions
+- Time-constrained: minimal appetite for day-to-day money management
+- Trust gap with generalist advisors who lack context of executive comp plans
+
+---
+
+### **Behavior & Preferences**
+
+| Trait | Description |
+| --- | --- |
+| **Decision-Making** | Strategic, fact-based, driven by fiduciary logic |
+| **Financial Literacy** | Advanced — expects sophistication and bespoke thinking |
+| **Risk Appetite** | Moderate — wants growth but with reputational and volatility controls |
+| **Preferred Style** | Discreet, high-touch, responsive, peer-level dialogue |
+| **Engagement Mode** | Direct access to a **senior RM**, quarterly reviews, digital visibility, one-page executive summaries |
+
+---
+
+### **Ideal Private Banking Value Proposition**
+
+> "Create liquidity from complexity, safeguard my reputation, and optimize for legacy — without wasting my time."
+> 
+
+| Category | Strategic Offer |
+| --- | --- |
+| **Equity Planning** | Pre/post-vesting strategy, tax deferral mechanisms, 10B5-1 equivalent planning (where applicable) |
+| **Tax Strategy** | Executive share scheme modeling, international tax coordination, use of insurance bonds or PPLI |
+| **Portfolio Diversification** | Direct access to PE/VC, global fixed income, family-office style asset allocation |
+| **Risk Management** | Hedging overlays, downside protection, FX management for global comp |
+| **Succession & Philanthropy** | Setup of charitable foundations, dynastic trusts, private ancillary funds (PAFs) |
+
+---
+
+### Quotes from Jonathan
+
+- "My biggest risk isn’t losing money — it’s missing the window to optimize."
+- "I want advisors who’ve worked with boards and understand governance."
+- "I need people who operate like I do: focused, strategic, and discreet."
+
+---
+
+### Archetype
+
+- **"The Corporate Architect"**
+    
+    Precise, efficient, focused on control, stewardship, and post-career legacy
+    
+
+---
+
+## How to Engage This Persona (Playbook Highlights)
+
+| Area | Engagement Tactic |
+| --- | --- |
+| **Access** | Offer **invitation-only briefings** (e.g., macroeconomic roundtables, regulatory change discussions) |
+| **Content** | Create **bespoke reports**: “Executive Equity Liquidity Options – Post-Vesting” |
+| **Events** | Private dinners with institutional CIOs, hedge fund PMs, or philanthropic leaders |
+| **RM Assignment** | Senior private banker with prior experience handling ASX/NZ50 execs or board members |
+| **Platform Experience** | Offer white-glove onboarding, digital dashboards with consolidated wealth reporting, secure channels for comms |
+
+---
+
+## Priya Menon
+
+### Segment
+
+Professional Services Partner – Prestige-Focused, Control-Oriented, Emerging Ultra-High-Net-Worth (UHNW)
+
+---
+
+### 1. Demographics
+
+- Age: 47
+- Profession: Equity Partner, Top-4 Consulting Firm (Tax & Advisory)
+- Location: Melbourne, Australia
+- Marital Status: Married, no children
+- Education: LLB/Commerce (UNSW), Chartered Accountant, Master of Tax
+- Estimated Net Worth: AUD 12 million (growing via income and firm equity)
+
+---
+
+### 2. Financial Profile
+
+- Annual Earnings: ~AUD 1.2 million (base + profit share)
+- Assets
+    - Firm equity / unit trust: AUD 4 million (limited liquidity)
+    - Residential and investment property: AUD 2 million
+    - Diversified managed funds: AUD 3 million
+    - Superannuation: AUD 1 million
+    - Retained partnership capital: AUD 2 million
+- Liabilities
+    - Mortgage on investment property
+    - Margin loan on equity portfolio
+- Cash-flow Pattern: High but lumpy (drawdowns and bonus cycles)
+- Liquidity Sensitivity: Moderate – seeks optionality, not cash-rich
+
+---
+
+### 3. Goals
+
+| Time Horizon | Objectives |
+| --- | --- |
+| 1–3 years | Optimise tax; reduce overexposure to firm equity; increase passive income |
+| 3–7 years | Plan for transition to advisory work; fund sabbatical travel and research |
+| 10+ years | Establish legacy plan, charitable trust, and education support for extended family |
+
+---
+
+### 4. Pain Points and Challenges
+
+- Concentrated risk in firm equity and partnership income
+- Complex partnership tax distributions and timing issues
+- Disparate investment accounts with no single dashboard
+- Limited time; reluctant to delegate but recognises efficiency gaps
+- Dislikes generic advice or overt sales tactics
+
+---
+
+### 5. Behaviour and Preferences
+
+- Decision-making: Analytical, data-driven, expects detailed rationale
+- Financial literacy: Very high; values technical excellence
+- Risk appetite: Moderate; strategic risk-taker, highly tax-aware
+- Engagement style: Prefers concise written analysis and periodic strategic meetings
+- Platform needs: Unified portfolio reporting, tax-lot tracking, ability to tag assets by objective
+
+---
+
+### 6. Ideal Private Banking Value Proposition
+
+“Bring rigour, trust, and integration to my financial life so I can think bigger.”
+
+| Need | Private-Banking Response |
+| --- | --- |
+| Structuring | Family trust plus holding trust and SMSF overlay; strategic gearing through company structure |
+| Tax planning | Drawdown timing, carry-forward cap optimisation, tax-deferred investment vehicles |
+| Investments | ESG-aligned model portfolios, direct indexing, tax-loss harvesting |
+| Credit | Sensible gearing for investments; cash-flow smoothing facilities |
+| Legacy | Educational or charitable trust; advice on family dynamics and succession |
+
+---
+
+### 7. Representative Quotes
+
+- “I’m not here for glossy brochures. Talk to me like a peer.”
+- “My accountant is brilliant—your advice needs to match that standard.”
+- “The bank should think two steps ahead, not react after I ask.”
+
+---
+
+### 8. Archetype
+
+The Technical Architect – precision-driven, status-conscious, loyal once value is proven.
+
+---
+
+### 10. How to Win This Segment
+
+1. **Speak their language** – use technical frameworks, detailed ROI and risk metrics.
+2. **Demonstrate intellectual parity** – provide white papers, exclusive briefings, and peer-level advisors.
+3. **Enable control** – deliver a unified digital dashboard with drill-down capability and tax projections.
+4. **Assign senior talent** – avoid junior staff; appoint a relationship manager with professional-services credentials.
+5. **Respect their time** – concise executive summaries, clear action points, and proactive insights.
